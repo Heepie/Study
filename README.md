@@ -3,4 +3,4 @@
 
 ## Contents
 
-- ### [Git](https://github.com/heepie/Study/Git)
+- ### [Git](https://github.com/Heepie/Study/tree/master/Git)
