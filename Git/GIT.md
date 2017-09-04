@@ -1,8 +1,8 @@
-#git이란?
+# git이란?
 VCS (Version Control System) 중 하나로, 소스 코드를 관리하기 위한 툴 중 가장 많이 사용하는 툴입니다.
 
 * ## git의 전반적인 흐름
-
+![git flow](git1_watermark.png)
 1. git을 설치 후 원하는 코드를 Local Repository(로컬 저장공간)에 commit한다.
 
 2. 해당 Local Repository를 Remote Repository 반영하기 위해서는 'remote'명령어로 연결해주어야 한다.
