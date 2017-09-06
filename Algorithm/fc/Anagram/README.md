@@ -1,6 +1,7 @@
 # Anagram
 아나그램이란?  
-일종의 말장난으로 어떠한 단어의 문자를 재배열하여 다른 뜻을 가지는 다른 단어로 바꾸는 것을 말한다. - 나무위키(https://namu.wiki/w/애너그램) -
+일종의 말장난으로 어떠한 단어의 문자를 재배열하여 다른 뜻을 가지는 다른 단어로 바꾸는 것을 말한다. - 나무위키-
+
 ```Java
   /**
    * 아나그램 알고리즘
@@ -35,13 +36,13 @@
 		Arrays.sort(cArray1);
 		Arrays.sort(cArray2);
 
-//     Log ----
+// Log ----
 //		for (char c : cArray1)
 //			System.out.print(c + " ");
 //		System.out.println("");
 //		for (char c : cArray2)
 //			System.out.print(c + " ");
-//     ----
+// ----
 
 		// 배열 비교
 		ret = Arrays.equals(cArray1, cArray2);
