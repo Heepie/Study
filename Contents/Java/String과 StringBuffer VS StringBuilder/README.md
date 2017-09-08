@@ -1,7 +1,5 @@
 # String과 StringBuffer VS StringBuilder
-JVM 메모리 영역은 Runtime Data Area라고 불린다. JVM이 운영체제 위에 실행되면 할당 받는 메모리 영역이다. JVM 메모리 영역의 구성은 아래 그림과 같다.</br>
-![jvm_memory_area](http://cfile1.uf.tistory.com/image/99B8CE3359B1DEBB3829DA)</br>
-***
+
 ## String과 메모리</br>
 String 객체는 한 번 생성될 때 메모리 공간이 고정되었다. 그리고 '+'나 'concat' 메소드를 사용해 문자열이 길어지면서 </br>
 1) 의도 하지 않는 메모리 침범</br>
