@@ -15,7 +15,6 @@
    * 1. 가운데를 기준으로 X, Y로 구분
    * 2. X 범위 안의 값을 역순으로 Y 범위 안의 값과 비교
    * ex) 'acbca'  X의 역순 = 'ca', Y = 'ca'
-   *
    * 3. 같다면 true, 다르면 false
    *
    * @param inputString
@@ -50,7 +49,7 @@
     if (length%2 == 0)
       yIdx = midIdx;		  // 짝수의 경우
     else
-      yIdx = midIdx+1;		// 홀수의 경우
+      yIdx = midIdx+1;		  // 홀수의 경우
 
     // X 부분의 역순 배열과 Y부분 비교
     for(j=yIdx; j<length; j=j+1) {
