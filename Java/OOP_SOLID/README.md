@@ -15,6 +15,7 @@ OOP란 **Object-Oriented Programming** 로 객체 지향 프로그래밍을 의�
 SOLID란 OOP의 5대 원리의 앞글자를 따온 것</br>OOP에 대해 아래서 자세히 살펴보자.
 ### SRP - Single Responsibility Principle
 ![SRP](http://cfile2.uf.tistory.com/image/993A5D3359AFD6562DED93)
+
 모든 클래스나 모듈은 하나의 책임만 맡는다는 원칙  
 **실습**
 - SRP 원칙 적용 전
@@ -42,7 +43,8 @@ class Mechanic {
 
 ### OCP - Open Closed Principle
 ![OCP](http://cfile3.uf.tistory.com/image/99CE973359AFD7180541BD)
-모든 구성요소는 확장에는 열려 있고 수정에는 닫혀있다는 원칙  
+
+모든 구성요소는 확장에는 열려 있고 수정에는 닫혀있다는 원칙  
 **실습**  
 '카니발'이라는 차가 이번에 새로 출시되어 하드웨어 성능이 올라가 가속도가 높아졌다고 가정하고 코드에 적용해보자. (m/s^2는 가속도 단위)
 - OCP 원칙 적용 전
@@ -78,8 +80,9 @@ class NewCarnival extends Carnival{
 ### LSP - Liskov Substitution Principle
 
 ### ISP - Interface Segregation Principle
-![ISP](http://cfile1.uf.tistory.com/image/9964833359AFDD6A14FCAC)
-특화된 여러 개의 인터페이스가 하나의 범용 인터페이스보다 낫다(유연하다.)는 원칙  
+![ISP](http://cfile1.uf.tistory.com/image/9964833359AFDD6A14FCAC) 
+
+특화된 여러 개의 인터페이스가 하나의 범용 인터페이스보다 낫다(유연하다.)는 원칙  
 **실습**  
 - ISP 원칙 적용 전
 ```java
