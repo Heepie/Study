@@ -9,8 +9,9 @@
   - [다양한 API 정리](https://github.com/Heepie/Study/tree/master/Java/다양한%20API%20정리)
   - [OOP_SOLID](https://github.com/Heepie/Study/tree/master/Java/OOP_SOLID)
   - [JVM_메모리 영역](https://github.com/Heepie/Study/tree/master/Java/OOP_SOLID)
+  - [String과 StringBuffer VS StringBuilder](https://github.com/Heepie/Study/tree/master/Contents/Java/String과%20StringBuffer%20VS%20StringBuilder)
 - ### Project
-  - [MVC 패턴과 Memo 프로그램](https://github.com/Heepie/Study/tree/master/Project/Memo)
+  - [MVC 패턴과 Memo 프로그램](https://github.com/Heepie/Study/tree/master/Contents/Project/Memo)
 
 ## Algorithm
 - ### Codefight
