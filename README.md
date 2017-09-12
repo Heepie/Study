@@ -11,7 +11,7 @@
   - [JVM_메모리 영역](https://github.com/Heepie/Study/tree/master/Contents/Java/JVM%20메모리%20영역)
   - [String과 StringBuffer VS StringBuilder](https://github.com/Heepie/Study/tree/master/Contents/Java/String과%20StringBuffer%20VS%20StringBuilder)
 - ### Project
-  - [MVC 패턴과 Memo 프로그램](https://github.com/Heepie/Study/tree/master/Contents/Project/Memo)
+  - [[Java] MVC 패턴과 Memo 프로그램](https://github.com/Heepie/Study/tree/master/Contents/Project/%5BJava%5D%20Memo)
 
 ## Algorithm
 - ### Codefight
