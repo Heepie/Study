@@ -5,7 +5,7 @@
 
 - ### [Git](https://github.com/Heepie/Study/tree/master/Git)
 - ### Android
-  - [다양한 View와 ViewGroup](https://github.com/Heepie/Study/tree/master/Contents/Android/각종%20View와%20ViewGroup)
+  - [다양한 View와 ViewGroup](https://github.com/Heepie/Study/tree/master/Contents/Android/다양한%20View와%20ViewGroup)
 
 - ### Java
   - [알아야 할 점](https://github.com/Heepie/Study/tree/master/Contents/Java/알아야%20할%20점)
