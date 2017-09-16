@@ -69,14 +69,23 @@ class NewCarnival extends Carnival{
 ```
 
 ### LSP - Liskov Substitution Principle
-**"객체 T는 객체 T의 특성변화 없이 객체 S로 대체되어야 한다." **는 원칙이다. 중요한 것은 특성변화 없이 대체되어야 한다는 것이다.</br>
+![LSP](http://cfile3.uf.tistory.com/image/99E26F3359AFEA21157538)</br>
+** "객체 T는 객체 T의 특성변화 없이 객체 S로 대체되어야 한다." **는 원칙이다. 중요한 것은 특성변화 없이 대체되어야 한다는 것이다.</br>
+![LSP2](http://cfile4.uf.tistory.com/image/9930123359AFEC940F0026)
+```java
+class T {
 
-**실습**</br>
+}
+
+class S extends T {
+
+}
+```
 
 ### ISP - Interface Segregation Principle
 ![ISP](http://cfile1.uf.tistory.com/image/9964833359AFDD6A14FCAC)</br>
-특화된 여러 개의 인터페이스가 하나의 범용 인터페이스보다 낫다(유연하다.)는 원칙</br></br>
-**실습**  
+특화된 여러 개의 인터페이스가 하나의 범용 인터페이스보다 낫다(유연하다.)는 원칙</br>
+
 - ISP 원칙 적용 전
 ```java
 interface IBird {
