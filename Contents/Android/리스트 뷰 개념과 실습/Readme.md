@@ -1,10 +1,10 @@
 # 리스트 뷰 개념과 실습
 
 ## 개념
-리스트 뷰란 ** 여러 개의 항목의 리스트 중 1개의 항목을 선택 할 수 있게 도와주는 위젯 ** 이다.
+리스트 뷰란 **여러 개의 항목의 리스트 중 1개의 항목을 선택 할 수 있게 도와주는 위젯** 이다.
 안드로이드에서 리스트를 설정하는 방법은 아래 그림과 같다.
 ![listview1](http://cfile6.uf.tistory.com/image/9950BD3359C0E25513BABA)
-Step1. Data와 Adapter를 연결한다.</br>
+</br>Step1. Data와 Adapter를 연결한다.</br>
 Step2. Adapter와 ListView를 연결한다. </br>
 ※ 사전 준비: ListView에 삽입 될 Data가 보여질 형태인 Xml과 ListView 위젯 추가된 xml이 필요하다. 그리고 중요한 Adapter가 필요하다.</br>
 
