@@ -8,15 +8,15 @@
 
 
 ## 전체를 가릴 경우
-### 생명주기
+- ### 생명주기
 ![all](http://cfile4.uf.tistory.com/image/992CE63359C25205192B52)</br>
 
-### 실습
+- ### 실습
 ![all_test](http://cfile6.uf.tistory.com/image/99FF513359C250BA3A4B12)
 
 ## 부분을 가릴 경우
-### 생명주기
+- ### 생명주기
 ![part](http://cfile23.uf.tistory.com/image/996C8A3359C2521332AAF6)</br>
 
-### 실습
+- ### 실습
 ![part_test](http://cfile30.uf.tistory.com/image/99E71C3359C250E627A663)
