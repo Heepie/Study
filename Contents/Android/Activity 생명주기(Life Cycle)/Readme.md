@@ -16,7 +16,7 @@
 
 ## 부분을 가릴 경우
 - ### 생명주기
-![part](http://cfile23.uf.tistory.com/image/996C8A3359C2521332AAF6)</br>
+![part](http://cfile8.uf.tistory.com/image/99D9B83359C658F60E4956)</br>
 
 - ### 실습
 ![part_test](http://cfile30.uf.tistory.com/image/99E71C3359C250E627A663)
