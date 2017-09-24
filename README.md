@@ -3,7 +3,7 @@
 
 ## Contents
 
-- ### [Git](https://github.com/Heepie/Study/tree/master/Git)
+- ### [Git](https://github.com/Heepie/Study/tree/master/Contents/Git)
 
 - ### Project
   - [[Java] MVC 패턴과 Memo 프로그램](https://github.com/Heepie/Study/tree/master/Contents/Project/%5BJava%5D%20Memo)
