@@ -91,6 +91,6 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## 스크린 샷
-API 19인 키켓에서는 Runtime Permission이 실행되지 않고
-API 23인 마시멜로우에서는 Runtime Permission이 실행되는 것을 볼 수 있다.
+API 19인 키켓에서는 Runtime Permission이 실행되지 않고</br>
+API 23인 마시멜로우에서는 Runtime Permission이 실행되는 것을 볼 수 있다.</br>
 ![screenshot](http://cfile27.uf.tistory.com/image/996CDD3359C8F2531AE129)
