@@ -20,9 +20,9 @@
   - [알아야 할 점](https://github.com/Heepie/Study/tree/master/Contents/Java/알아야%20할%20점)
   - [다양한 API 정리](https://github.com/Heepie/Study/tree/master/Contents/Java/다양한%20API%20정리)
   - [OOP_SOLID](https://github.com/Heepie/Study/tree/master/Contents/Java/OOP_SOLID)
-    - SRP
+    - [SRP](https://github.com/Heepie/Study/tree/master/Contents/Java/OOP_SOLID/SRP)
     - OCP
-    - LSP
+    - [LSP](https://github.com/Heepie/Study/tree/master/Contents/Java/OOP_SOLID/LSP)
     - ISP
     - DIP
   - [JVM_메모리 영역](https://github.com/Heepie/Study/tree/master/Contents/Java/JVM%20메모리%20영역)
