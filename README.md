@@ -23,7 +23,7 @@
     - [SRP](https://github.com/Heepie/Study/tree/master/Contents/Java/OOP_SOLID/SRP)
     - OCP
     - [LSP](https://github.com/Heepie/Study/tree/master/Contents/Java/OOP_SOLID/LSP)
-    - ISP
+    - [ISP](https://github.com/Heepie/Study/tree/master/Contents/Java/OOP_SOLID/ISP)
     - DIP
   - [JVM_메모리 영역](https://github.com/Heepie/Study/tree/master/Contents/Java/JVM%20메모리%20영역)
   - [String과 StringBuffer VS StringBuilder](https://github.com/Heepie/Study/tree/master/Contents/Java/String과%20StringBuffer%20VS%20StringBuilder)
