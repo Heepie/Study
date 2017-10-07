@@ -6,7 +6,8 @@
 - ### [Git](https://github.com/Heepie/Study/tree/master/Contents/Git)
 
 - ### Project
-  - [[Java] MVC 패턴과 Memo 프로그램](https://github.com/Heepie/Study/tree/master/Contents/Project/%5BJava%5D%20Memo)
+  - [[Android] Calculator 프로젝트](https://github.com/Heepie/Study/tree/master/Contents/Project/%5BAndroid%5D%20Calculator)
+  - [[Java] Memo 프로젝트](https://github.com/Heepie/Study/tree/master/Contents/Project/%5BJava%5D%20Memo)
     - [Memo Project [절차지향 - ArrayList 저장]](https://github.com/Heepie/Study/tree/master/Contents/Project/%5BJava%5D%20Memo/Memo%20Project%20%5B절차지향%20-%20ArrayList%20저장%5D)
 
 - ### Android
