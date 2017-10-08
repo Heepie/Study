@@ -6,7 +6,7 @@
 1) XML에 속성을 정의 후 호출해 사용하는 방법
 ![concept1](http://cfile4.uf.tistory.com/image/9980F83359BFA0A1064C77)</br>
 ※ attirs.xml의 경우는 안드로이드에서 정한 path의 xml이므로 이름을 변경할 수 없다.</br></br>
-2) 액티비티 안에서 Java 코드를 통해 직접 호출 하는 방법
+2) 액티비티 안에서 Java 코드를 통해 직접 호출 하는 방법</br>
 ![concept2](http://cfile29.uf.tistory.com/image/99211E3359BFA1CC08D556)
 
 ## 실습
