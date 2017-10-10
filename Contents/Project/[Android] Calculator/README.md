@@ -1,6 +1,6 @@
-# [Android] Calculator
+# [Android] Calculator 프로젝트
 ## 설명
-안드로이드를 활용한 사칙연산을 처리하는 연습 앱입니다.</br>
+Android를 활용한 사칙연산을 처리하는 연습 앱입니다.</br>
  ![calculator](http://cfile30.uf.tistory.com/image/997E453359B9C4B338B970)
 
 ## 목적

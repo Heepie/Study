@@ -1,4 +1,4 @@
-# [Java] Memo 프로그램
+# [Java] Memo 프로젝트
 ## 설명
 Memo 프로그램은 데이터를 입력 후 수정, 삭제가 가능하고 해당 결과를 출력하는 프로그램입니다. 아래 그림은 프로젝트의 큰 흐름입니다.
 ![project_flow](http://cfile2.uf.tistory.com/image/99D6B23359B50AC732CE86)
