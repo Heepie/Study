@@ -10,9 +10,9 @@
 한다.</br>
 
 ## 사용 방법
-![how_to_use](http://cfile25.uf.tistory.com/image/99E8C73359DCC068285F74)
+![how_to_use](http://cfile22.uf.tistory.com/image/9976AD3359E0A8C317CCCE)
 
 ## 알아야 할 점
-![noti](http://cfile21.uf.tistory.com/image/99C05F3359DCC65D18CF91)
+![noti](http://cfile21.uf.tistory.com/image/99C05F3359DCC65D18CF91)</br>
 그림과 같이 Service를 호출한 Activity와 Service는 동일한 Thread로 동작하기 때문에 병렬적으로 동작하지 않는다.</br>
 이를 해결하기 위해서는 Service를 새로운 Thread를 생성해 처리해주면 된다.</br>
