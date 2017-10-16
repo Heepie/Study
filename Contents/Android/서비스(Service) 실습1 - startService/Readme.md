@@ -1,7 +1,7 @@
 # 서비스(Service) 실습 - startService
 
 ## 개념
-서비스를 실행시키는 첫번째 방법인 startService을 실습할 예정이다.
+서비스를 실행시키는 첫번째 방법인 startService을 실습할 예정이다.</br>
 ![concept1](http://cfile10.uf.tistory.com/image/99775D3359DD629012CC7A)</br>
 
 ## 실습
