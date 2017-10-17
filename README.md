@@ -26,6 +26,7 @@
   - [Fragment 개념과 실습](https://github.com/Heepie/Study/tree/master/Contents/Android/Fragment%20개념과%20실습)
   - [서비스(Service) 개념과 알아야할 점](https://github.com/Heepie/Study/tree/master/Contents/Android/서비스(Service)%20개념과%20알아야할%20점)
   - [서비스(Service) 실습1 - startService](https://github.com/Heepie/Study/tree/master/Contents/Android/서비스(Service)%20실습1%20-%20startService)
+  - [서비스(Service) 실습2 - bindService](https://github.com/Heepie/Study/blob/master/Contents/Android/서비스(Service)%20실습2%20-%20bindService/)
 
 - ### Java
   - [알아야 할 점](https://github.com/Heepie/Study/tree/master/Contents/Java/알아야%20할%20점)
