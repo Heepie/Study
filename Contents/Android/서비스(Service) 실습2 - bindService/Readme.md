@@ -81,8 +81,8 @@ public class MyService extends Service {
 
 ## 문제점 및 해결
 위의 코드는 서비스를 통해 결과 확인을 1회 밖에 할 수 없다. </br>
-![problem](http://cfile7.uf.tistory.com/image/99085C3359DDED38023810)</br>
-
+![problem](http://cfile7.uf.tistory.com/image/99085C3359DDED38023810)</br></br>
+bindService 메소드를 사용해 iBinder로 서비스와 통로가 형성되어야하는 장점을 사용하지 못한 것이다. 그래서 아래와 같은 그림으로 코드를 변경할 예정이다.</br>
 ![solution](http://cfile22.uf.tistory.com/image/99DBBA3359DDED6C1AD47D)</br>
 
 ## 실습 2
