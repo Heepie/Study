@@ -174,4 +174,4 @@ public class MyService extends Service {
 ```
 
 ## 스크린 샷
-![screenshot](http://cfile7.uf.tistory.com/image/995A003359DDF21A3696C9)</br>
+![screenshot](http://cfile1.uf.tistory.com/image/99338D3359E74812316310)</br>
