@@ -4,10 +4,11 @@ Given an array of integers, find the maximal absolute difference between any two
 > Example </br></br>
 > For inputArray = [2, 4, 1, 0], the output should be
 arrayMaximalAdjacentDifference(inputArray) = 3.
+</br>
 
 ## 문제 분석
 - 조건
-  1. 배열 주어지고 인접한 두 수의 차의 절대값 중 가장 큰 값을 구하는 문제</br></br>∑
+  1. 배열 주어지고 인접한 두 수의 차의 절대값 중 가장 큰 값을 구하는 문제</br>
 - 문제 풀이 방법
   1. 인접 두 수의 차의 절대값을 구한다.(Math 클래스 사용)
   2. 절대값을 비교해 최대값을 갱신한다.</br></br>
