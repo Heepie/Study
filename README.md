@@ -1,4 +1,4 @@
-# Study 🔥
+# Study :fire:
 학습 정리 공간입니다.
 
 ## Contents :green_book:
@@ -49,7 +49,7 @@
 
 
 
-## Algorithm
+## Algorithm :pencil2:
 - ### Codefight
   - Arcade
     - [[20번] arrayMaximalAdjacentDifference](https://github.com/Heepie/Study/tree/master/Algorithm/codefight/Arcade/%5B20번%5D%20arrayMaximalAdjacentDifference)
