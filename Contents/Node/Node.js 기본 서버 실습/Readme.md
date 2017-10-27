@@ -1,4 +1,4 @@
-# 기본 서버 구현
+# Nodejs 기본 서버 실습
 Node.js는 javascript 기반의 서버 프레임워크이므로 클라이언트 단 언어인 javascript로 서버 구현이 가능하다.
 
 ## 실습
