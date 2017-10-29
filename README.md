@@ -31,8 +31,8 @@
 - ### Node.js
   - [Nodejs서버와 Browser[데이터 요청]](https://github.com/Heepie/Study/tree/master/Contents/Node/Nodejs서버와%20Browser%5B데이터%20요청%5D)
   - [Nodejs서버와 Browser[데이터 전달]](https://github.com/Heepie/Study/tree/master/Contents/Node/Nodejs서버와%20Browser%5B데이터%20전달%5D)
-  - [Node.js 기본 서버 실습](https://github.com/Heepie/Study/tree/master/Contents/Node/기본%20서버%20구현) 
-  - [JavaScript 기본 문법](https://github.com/Heepie/Study/tree/master/Contents/Node/Javscript%20문법)
+  - [Node.js 기본 서버 실습](https://github.com/Heepie/Study/tree/master/Contents/Node/기본%20서버%20구현)
+  - [JavaScript 기본 문법](https://github.com/Heepie/Study/tree/master/Contents/Node/Javscript%20문법)
 
 
 - ### Java
