@@ -27,6 +27,7 @@
   - [서비스(Service) 개념과 알아야할 점](https://github.com/Heepie/Study/tree/master/Contents/Android/서비스(Service)%20개념과%20알아야할%20점)
   - [서비스(Service) 실습1 - startService](https://github.com/Heepie/Study/tree/master/Contents/Android/서비스(Service)%20실습1%20-%20startService)
   - [서비스(Service) 실습2 - bindService](https://github.com/Heepie/Study/blob/master/Contents/Android/서비스(Service)%20실습2%20-%20bindService/)
+  - [서비스(Service) 실습3 - Notification](https://github.com/Heepie/Study/tree/master/Contents/Android/서비스(Service)%20실습3%20-%20Notification)
 
 - ### Node.js
   - [Nodejs서버와 Browser[데이터 요청]](https://github.com/Heepie/Study/tree/master/Contents/Node/Nodejs서버와%20Browser%5B데이터%20요청%5D)
