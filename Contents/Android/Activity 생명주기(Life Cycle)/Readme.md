@@ -12,11 +12,11 @@
 ![all](http://cfile4.uf.tistory.com/image/992CE63359C25205192B52)</br>
 
 - ### 실습
-![all_test](http://cfile6.uf.tistory.com/image/99FF513359C250BA3A4B12)
+추후 Gif로 올릴 예정
 
 ## 부분을 가릴 경우
 - ### 생명주기
 ![part](http://cfile8.uf.tistory.com/image/99D9B83359C658F60E4956)</br>
 
 - ### 실습
-![part_test](http://cfile30.uf.tistory.com/image/99E71C3359C250E627A663)
+추후 Gif로 올릴 예정
