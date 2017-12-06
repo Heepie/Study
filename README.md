@@ -3,6 +3,9 @@
 
 ## Contents :green_book:
 - ### 패턴
+  - MVVM
+  - MVP 
+  - MVC
 
 - ### [Git](https://github.com/Heepie/Study/tree/master/Contents/Git)
 
