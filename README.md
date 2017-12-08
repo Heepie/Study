@@ -2,10 +2,16 @@
 학습 정리 공간입니다.
 
 ## Contents :green_book:
-- ### 패턴
+- ### 패턴과 객체지향 프로그래밍
   - MVVM
   - MVP 
   - MVC
+  - [OOP_SOLID](https://github.com/Heepie/Study/tree/master/Contents/Java/OOP_SOLID)
+    - [SRP](https://github.com/Heepie/Study/tree/master/Contents/Java/OOP_SOLID/SRP)
+    - [OCP](https://github.com/Heepie/Study/tree/master/Contents/Java/OOP_SOLID/OCP)
+    - [LSP](https://github.com/Heepie/Study/tree/master/Contents/Java/OOP_SOLID/LSP)
+    - [ISP](https://github.com/Heepie/Study/tree/master/Contents/Java/OOP_SOLID/ISP)
+    - [DIP](https://github.com/Heepie/Study/tree/master/Contents/Java/OOP_SOLID/DIP)
 
 - ### [Git](https://github.com/Heepie/Study/tree/master/Contents/Git)
 
@@ -38,12 +44,6 @@
 - ### Java
   - [알아야 할 점](https://github.com/Heepie/Study/tree/master/Contents/Java/알아야%20할%20점)
   - [다양한 API 정리](https://github.com/Heepie/Study/tree/master/Contents/Java/다양한%20API%20정리)
-  - [OOP_SOLID](https://github.com/Heepie/Study/tree/master/Contents/Java/OOP_SOLID)
-    - [SRP](https://github.com/Heepie/Study/tree/master/Contents/Java/OOP_SOLID/SRP)
-    - [OCP](https://github.com/Heepie/Study/tree/master/Contents/Java/OOP_SOLID/OCP)
-    - [LSP](https://github.com/Heepie/Study/tree/master/Contents/Java/OOP_SOLID/LSP)
-    - [ISP](https://github.com/Heepie/Study/tree/master/Contents/Java/OOP_SOLID/ISP)
-    - [DIP](https://github.com/Heepie/Study/tree/master/Contents/Java/OOP_SOLID/DIP)
   - [JVM_메모리 영역](https://github.com/Heepie/Study/tree/master/Contents/Java/JVM%20메모리%20영역)
   - [String과 StringBuffer VS StringBuilder](https://github.com/Heepie/Study/tree/master/Contents/Java/String과%20StringBuffer%20VS%20StringBuilder)
   - [try-with](https://github.com/Heepie/Study/tree/master/Contents/Java/try-with)
