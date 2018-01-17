@@ -3,7 +3,7 @@
 
 ## Contents :green_book:
 - ### 패턴과 객체지향 프로그래밍
-  - MVVM
+  - [MVVM](http://heepie.tistory.com/212)
   - [MVP](http://heepie.tistory.com/219) 
   - MVC
   - [OOP_SOLID](https://github.com/Heepie/Study/tree/master/Contents/Java/OOP_SOLID)
