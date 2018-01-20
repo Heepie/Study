@@ -44,7 +44,8 @@
 - ### Java
   - [알아야 할 점](https://github.com/Heepie/Study/tree/master/Contents/Java/알아야%20할%20점)
   - [다양한 API 정리](https://github.com/Heepie/Study/tree/master/Contents/Java/다양한%20API%20정리)
-  - [JVM_메모리 영역](https://github.com/Heepie/Study/tree/master/Contents/Java/JVM%20메모리%20영역)
+  - [JVM_메모리 영역_1](https://github.com/Heepie/Study/tree/master/Contents/Java/JVM%20메모리%20영역)
+  - [JVM_메모리 영역_2](http://heepie.tistory.com/category/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EC%96%B8%EC%96%B4/%5BJava%5D%20%ED%95%99%EC%8A%B5%EC%9D%BC%EC%A7%80)
   - [String과 StringBuffer VS StringBuilder](https://github.com/Heepie/Study/tree/master/Contents/Java/String과%20StringBuffer%20VS%20StringBuilder)
   - [try-with](https://github.com/Heepie/Study/tree/master/Contents/Java/try-with)
   - [Thread 개념과 실습](https://github.com/Heepie/Study/tree/master/Contents/Java/Thread%20개념과%20실습)
