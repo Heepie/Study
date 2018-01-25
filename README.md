@@ -5,7 +5,7 @@
 - ### 패턴과 객체지향 프로그래밍
   - [MVVM](http://heepie.tistory.com/212)
   - [MVP](http://heepie.tistory.com/219) 
-  - MVC
+  - [MVC](http://heepie.tistory.com/51)
   - [OOP_SOLID](https://github.com/Heepie/Study/tree/master/Contents/Java/OOP_SOLID)
     - [SRP](https://github.com/Heepie/Study/tree/master/Contents/Java/OOP_SOLID/SRP)
     - [OCP](https://github.com/Heepie/Study/tree/master/Contents/Java/OOP_SOLID/OCP)
