@@ -15,6 +15,9 @@
 
 - ### [Git](https://github.com/Heepie/Study/tree/master/Contents/Git)
 
+- ### Kotlin
+  - [Kotlin 기본 문법_1](http://heepie.tistory.com/232)
+
 - ### Android
   - [다양한 View와 ViewGroup](https://github.com/Heepie/Study/tree/master/Contents/Android/다양한%20View와%20ViewGroup)
   - [리스트 뷰 개념과 실습](https://github.com/Heepie/Study/blob/master/Contents/Android/리스트%20뷰%20개념과%20실습/Readme.md)
