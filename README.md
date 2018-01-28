@@ -58,7 +58,8 @@
   - [try-with](https://github.com/Heepie/Study/tree/master/Contents/Java/try-with)
   - [Thread 개념과 실습](https://github.com/Heepie/Study/tree/master/Contents/Java/Thread%20개념과%20실습)
 
-
+- ### UI/UX
+  - [모바일 기기의 특징](http://heepie.tistory.com/257)
 
 ## Algorithm :pencil2:
 - ### Codefight
