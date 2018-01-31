@@ -61,6 +61,7 @@
 
 - ### UI/UX
   - [모바일 기기의 특징](http://heepie.tistory.com/257)
+  - [UI/UX](http://heepie.tistory.com/230)
 
 ## Algorithm :pencil2:
 - ### Codefight
