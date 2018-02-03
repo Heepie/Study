@@ -61,6 +61,7 @@
 
 - ### UI/UX
   - [모바일 기기의 특징](http://heepie.tistory.com/257)
+  - [경험의 흐름](http://heepie.tistory.com/241)
   - [UI/UX](http://heepie.tistory.com/230)
 
 ## Algorithm :pencil2:
