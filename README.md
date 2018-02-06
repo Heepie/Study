@@ -55,7 +55,7 @@
   - [다양한 API 정리](https://github.com/Heepie/Study/tree/master/Contents/Java/다양한%20API%20정리)
   - [JVM_메모리 영역_1](https://github.com/Heepie/Study/tree/master/Contents/Java/JVM%20메모리%20영역)
   - [JVM_메모리 영역_2](http://heepie.tistory.com/254)
-  - [String과 StringBuffer VS StringBuilder](https://github.com/Heepie/Study/tree/master/Contents/Java/String과%20StringBuffer%20VS%20StringBuilder)
+  - [String과 StringBuffer VS StringBuilder](http://heepie.tistory.com/50)
   - [try-with](https://github.com/Heepie/Study/tree/master/Contents/Java/try-with)
   - [Thread 개념과 실습](https://github.com/Heepie/Study/tree/master/Contents/Java/Thread%20개념과%20실습)
 
